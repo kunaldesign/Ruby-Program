@@ -13,3 +13,12 @@ Various examples of Ruby program you can find here
 10. **10program** - multiple the number `* 5`.
 11. **11program** - for seeing length of the string use `.length`.
 12. **12program** - for seeing length of the string use `.length` with `chomp`.
+13. **13program** - round off program with `round` function.
+14. **14program** - method in ruby using `def`.
+15. **15program** - method with parameters in ruby(example 1).
+16. **16program** - method with parameters in ruby(example 2) with concatenate.
+17. **17program** - method with parameters in ruby(example 3) with variables.
+18. **18program** - method with default parameters in ruby.
+19. **19program** - method with default and other parameter in ruby.
+20. **20program** - Returning values from methods in ruby.
+21. **21program** - Passing multiple parameters to a single method in ruby.

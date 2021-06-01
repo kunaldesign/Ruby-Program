@@ -22,3 +22,13 @@ Various examples of Ruby program you can find here
 19. **19program** - method with default and other parameter in ruby.
 20. **20program** - Returning values from methods in ruby.
 21. **21program** - Passing multiple parameters to a single method in ruby.
+22. **22program** - conditional statement in the ruby using `if` & `elsif` & `else`.
+23. **23program** - if statement modifier in ruby.
+24. **24program** - Ruby `unless` statment.
+25. **25program** - Ruby `unless` modifier statement.
+26. **26program** - Ruby `case` statement.
+27. **27program** - Class and Object in ruby.
+28. **28program** - See the class of the object by using `.class`.
+29. **29program** - how to write special character in string.
+30. **30program** - Program of Getter, Setter & Initialize method in RUBY class.
+31. **31program** - Find area of rectangle by using class in ruby.

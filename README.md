@@ -32,3 +32,8 @@ Various examples of Ruby program you can find here
 29. **29program** - how to write special character in string.
 30. **30program** - Program of Getter, Setter & Initialize method in RUBY class.
 31. **31program** - Find area of rectangle by using class in ruby.
+32. **32program** - Shortcut of getter & setter with the help of `attr_reader` and `attr_writer`.
+33. **33program** - Shortcut of getter & setter wth the heelp of `attr_accessor`.
+34. **34program** - Use of `to_s` method in ruby.
+35. **35program** - Example code for class variable i.e. `@@x`.
+36. **36program** - Use of `self` keyword in ruby.

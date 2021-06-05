@@ -37,3 +37,9 @@ Various examples of Ruby program you can find here
 34. **34program** - Use of `to_s` method in ruby.
 35. **35program** - Example code for class variable i.e. `@@x`.
 36. **36program** - Use of `self` keyword in ruby.
+37. **37program** - Use of `until` loop in ruby.
+38. **38program** - Until modifier in ruby.
+39. **39program** - Use of `while` loop in ruby.
+40. **40program** - While modifier in ruby.
+41. **41program** - Use of `for` in ruby (no condition).
+

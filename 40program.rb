@@ -1,0 +1,23 @@
+#40program: Use of while loop modifier in ruby.
+
+
+=begin
+  
+  while modifier SYNTAX:;
+
+  begin
+    code
+  end while condition
+
+=end
+
+
+$i = 0
+$num = 5
+
+begin
+  
+  puts("Inside the loop $i = #$i")
+  $i += 1
+
+end while $i < $num

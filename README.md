@@ -42,4 +42,3 @@ Various examples of Ruby program you can find here
 39. **39program** - Use of `while` loop in ruby.
 40. **40program** - While modifier in ruby.
 41. **41program** - Use of `for` in ruby (no condition).
-

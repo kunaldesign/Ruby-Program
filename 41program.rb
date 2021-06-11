@@ -12,5 +12,13 @@
 =end
 
 
+for i in 0..5
+  
+  puts("Value of local variable i = #{i}")
+
+end
+
+
+
 
 

@@ -48,3 +48,4 @@ Various examples of Ruby program you can find here
 45. **45program** - Next statment example.
 46. **46program** - Redo statement example.
 47. **47program** - Codes of Block without parameters.
+48. **48program** - Codes of Block with parameters.

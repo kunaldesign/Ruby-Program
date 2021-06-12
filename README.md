@@ -45,3 +45,4 @@ Various examples of Ruby program you can find here
 42. **42program** - Alternative for FOR loop.
 43. **43program** - More on loop codes & example.
 44. **44program** - Break statment.
+45. **45program** - Next statment example.

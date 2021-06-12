@@ -47,3 +47,4 @@ Various examples of Ruby program you can find here
 44. **44program** - Break statment.
 45. **45program** - Next statment example.
 46. **46program** - Redo statement example.
+47. **47program** - Codes of Block without parameters.

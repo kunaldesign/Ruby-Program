@@ -15,3 +15,6 @@ module Mymodule2
     end
     
 end
+
+myobject = Mymodule2::TestClass.new
+myobject.mymethod

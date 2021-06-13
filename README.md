@@ -52,4 +52,4 @@ Various examples of Ruby program you can find here
 49. **49program** - Codes of PASSING A BLOCK TO A METHOD.
 50. **50program** - Codes for modules.
 51. **51program** - Class in `module`.
-52. **52program** - 
+52. **52program** - Example of require in ruby.

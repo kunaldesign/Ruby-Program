@@ -44,11 +44,12 @@ Various examples of Ruby program you can find here
 41. **41program** - Use of `for` in ruby (no condition).
 42. **42program** - Alternative for FOR loop.
 43. **43program** - More on loop codes & example.
-44. **44program** - Break statment.
+44. **44program** - `Break` statment.
 45. **45program** - Next statment example.
 46. **46program** - Redo statement example.
 47. **47program** - Codes of Block without parameters.
 48. **48program** - Codes of Block with parameters.
 49. **49program** - Codes of PASSING A BLOCK TO A METHOD.
 50. **50program** - Codes for modules.
-51. **51program** - Class in module.
+51. **51program** - Class in `module`.
+52. **52program** - 

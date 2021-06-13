@@ -27,3 +27,16 @@ module B
     end
 
 end
+
+class Sample
+    
+    include A
+    include B
+
+end
+
+s = Sample.new
+s.a1
+s.a2
+s.b1
+s.b2

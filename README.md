@@ -55,3 +55,4 @@ Various examples of Ruby program you can find here
 52. **52program** - Example of require in ruby.
 53. **53program** - Example of `require_relative` in ruby (include).
 54. **54program** - Mixins and include statement in ruby.
+55. **55program** - Array basics and fundamentals in ruby.

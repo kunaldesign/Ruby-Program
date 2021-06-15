@@ -14,3 +14,9 @@ puts countries.keys.inspect
 puts countries.values.inspect
 
 countries.each_pair{|k,v| puts "keys: #{k}, Values: #{v}"}
+countries.each_key{|k| puts "keys: #{k}"}
+countries.each_value{|v| puts "Values: #{v}"}
+
+newcountries = countries.invert
+puts newcountries.keys.inspect
+puts newcountries.values.inspect

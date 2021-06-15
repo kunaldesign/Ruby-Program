@@ -59,3 +59,4 @@ Various examples of Ruby program you can find here
 56. **56program** - Array basics and fundamentals in ruby(example 2).
 57. **57program** - Sorting in array.
 58. **58program** - Array basics and fundamentals in ruby(example 3).
+59. **59program** - 2D - Array in ruby.

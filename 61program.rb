@@ -1,4 +1,4 @@
-#61program: hash in ruby.
+#61program: hash in ruby (example 1).
 
 countries = {
     "in" => "INDIA",

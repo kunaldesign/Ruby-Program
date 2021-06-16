@@ -63,3 +63,4 @@ Various examples of Ruby program you can find here
 60. **60program** - 2D - Array: Creating 10*10 2D Array with each element as "0"
 61. **61program** - `hash` in ruby (example 1)
 62. **62program** - `hash` in ruby (example 2)
+63. **63program** - `hash` in ruby (example 3)

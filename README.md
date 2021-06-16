@@ -60,7 +60,8 @@ Various examples of Ruby program you can find here
 57. **57program** - Sorting in array.
 58. **58program** - Array basics and fundamentals in ruby(example 3).
 59. **59program** - 2D - Array in ruby.
-60. **60program** - 2D - Array: Creating 10*10 2D Array with each element as "0"
-61. **61program** - `hash` in ruby (example 1)
-62. **62program** - `hash` in ruby (example 2)
-63. **63program** - `hash` in ruby (example 3)
+60. **60program** - 2D - Array: Creating 10*10 2D Array with each element as "0".
+61. **61program** - `hash` in ruby (example 1).
+62. **62program** - `hash` in ruby (example 2).
+63. **63program** - `hash` in ruby (example 3).
+64. **64program** - Ramdom number in ruby.

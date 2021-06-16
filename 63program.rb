@@ -59,4 +59,9 @@ puts
 #assoc function
 puts names.assoc("hot")
 
+puts
+
+#rassoc function
+puts names.rassoc("Smith")
+
 

@@ -65,3 +65,4 @@ Various examples of Ruby program you can find here
 62. **62program** - `hash` in ruby (example 2).
 63. **63program** - `hash` in ruby (example 3).
 64. **64program** - Ramdom number in ruby.
+65. **65program** - Example code of ruby (Menu).

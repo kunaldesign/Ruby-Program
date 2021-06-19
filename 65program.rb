@@ -19,14 +19,14 @@ class Menu
         puts "#{index + 1}. #{item}"
         
         end
-
+        
+        print "Please place your order sir...!!"
+        user_choice = gets.to_i
+        
+        return user_choice
     end
 
-    print "Please place your order sir...!!"
-    user_choice = gets.to_i
-    
-    return user_choice
-
+   
 end
 
 menu = Menu.new("PIZZA", "BURGAR", "SANDWICH", "JUICE", "QUIT")

@@ -66,3 +66,6 @@ Various examples of Ruby program you can find here
 63. **63program** - `hash` in ruby (example 3).
 64. **64program** - Ramdom number in ruby.
 65. **65program** - Example code of ruby (Menu).
+66. **66program** - Inheritance in ruby (example 1).
+67. **67program** - Inheritance in ruby (example 2).
+68. **68program** - Inheritance in ruby (example 3). 

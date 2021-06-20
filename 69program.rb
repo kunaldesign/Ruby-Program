@@ -26,7 +26,13 @@ class Tiger < Animal
 end
 
 tiger = Tiger.new("Jango", "Yellow")
+animal = Animal.new
 
 puts tiger.inspect
 puts tiger.speak
 puts tiger.indentify
+
+puts
+
+puts animal.inspect
+puts animal.indentify

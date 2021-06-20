@@ -70,3 +70,4 @@ Various examples of Ruby program you can find here
 67. **67program** - Inheritance in ruby (example 2).
 68. **68program** - Inheritance in ruby (example 3). 
 69. **69program** - Inheritance in ruby (example 4). 
+70. **70program** - Inheritance in ruby (example 5): Method Overriding.

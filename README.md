@@ -71,4 +71,6 @@ Various examples of Ruby program you can find here
 68. **68program** - Inheritance in ruby (example 3). 
 69. **69program** - Inheritance in ruby (example 4). 
 70. **70program** - Inheritance in ruby (example 5): Method Overriding.
-71. **71program** - Operator Overloading
+71. **71program** - Operator Overloading (example 1).
+72. **72program** - Operator Overloading (example 2).
+73. **73program** - Operator Overloading (example 3).

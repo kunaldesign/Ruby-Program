@@ -83,3 +83,4 @@ Various examples of Ruby program you can find here
 80. **80program** - `Proc` in ruby(example 4).
 81. **81program** - `Proc` in ruby(example 5).
 82. **82program** - `Proc` in ruby(example 6).
+83. **83program** - `Proc` in ruby(example 7).

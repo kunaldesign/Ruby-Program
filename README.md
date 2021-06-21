@@ -77,4 +77,5 @@ Various examples of Ruby program you can find here
 74. **74program** - Operator Overloading (example 4).
 75. **75program** - Freezing Object in the ruby.
 76. **76program** - Linguistics in ruby.
-77. **77program** - `Proc` in ruby.
+77. **77program** - `Proc` in ruby(example 1).
+78. **78program** - `Proc` in ruby(example 2).

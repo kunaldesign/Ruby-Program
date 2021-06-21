@@ -75,3 +75,4 @@ Various examples of Ruby program you can find here
 72. **72program** - Operator Overloading (example 2).
 73. **73program** - Operator Overloading (example 3).
 74. **74program** - Operator Overloading (example 4).
+75. **75program** - Freezing Object in the ruby.

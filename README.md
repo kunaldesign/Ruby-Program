@@ -79,3 +79,5 @@ Various examples of Ruby program you can find here
 76. **76program** - Linguistics in ruby.
 77. **77program** - `Proc` in ruby(example 1).
 78. **78program** - `Proc` in ruby(example 2).
+79. **79program** - `Proc` in ruby(example 3).
+80. **80program** - `Proc` in ruby(example 4).

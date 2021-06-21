@@ -85,3 +85,5 @@ Various examples of Ruby program you can find here
 82. **82program** - `Proc` in ruby(example 6).
 83. **83program** - `Proc` in ruby(example 7).
 84. **84program** - `Proc` in ruby(example 8).
+85. **85program** - `Time` and `Date` in ruby(example 1).
+86. **86program** - `Time` and `Date` in ruby(example 2).
